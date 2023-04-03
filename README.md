@@ -11,8 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/davieboy152/Frontend-Mentor)
-- Live Site URL: [Add live site URL here](https://main--peppy-boba-17c301.netlify.app/)
+- Solution URL: https://github.com/davieboy152/Frontend-Mentor
+- Live Site URL: https://main--peppy-boba-17c301.netlify.app/
 
 
 ### Built with
@@ -25,6 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/davieboy152)
+- Frontend Mentor - ttps://www.frontendmentor.io/profile/davieboy152
 
 
